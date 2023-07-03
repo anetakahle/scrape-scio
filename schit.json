@@ -1,0 +1,181 @@
+{
+  "locations": [
+    {
+      "schoolType": "ZS",
+      "group": "Praha",
+      "name": "Praha 4",
+      "city": "Praha 4",
+      "street": "Boleslavova 250/1",
+      "url": "https://praha4.scioskola.cz/",
+      "latitude": 50.0617908,
+      "longitude": 14.4412115,
+      "fee": "8 950"
+    },
+    {
+      "schoolType": "ZS",
+      "group": "Praha",
+      "name": "Praha 6 Dejvice",
+      "city": "Praha 6",
+      "street": "nám. Na Santince 5",
+      "url": "https://praha6.scioskola.cz/",
+      "latitude": 50.1072726,
+      "longitude": 14.3867492,
+      "fee": "11 340"
+    },
+    {
+      "schoolType": "ZS",
+      "group": "Praha",
+      "name": "Praha 3",
+      "city": "Praha 3",
+      "street": "V zahrádkách 3 a 5, Praha 3, 13000",
+      "url": "https://praha3.scioskola.cz/",
+      "latitude": 50.0873475,
+      "longitude": 14.4884445,
+      "fee": "9 010"
+    },
+    {
+      "schoolType": "ZS",
+      "group": "Praha",
+      "name": "Praha 11",
+      "city": "Praha 11",
+      "street": "Pošepného náměstí 2022",
+      "url": "https://praha11.scioskola.cz/",
+      "latitude": 50.0316799,
+      "longitude": 14.4819913,
+      "fee": "8 500"
+    },
+    {
+      "schoolType": "ZS",
+      "group": "Praha",
+      "name": "Praha 13",
+      "city": "Praha 13",
+      "street": "Prusíkova 16",
+      "url": "https://praha13.scioskola.cz/",
+      "latitude": 50.0381561,
+      "longitude": 14.3390326,
+      "fee": "9 800"
+    },
+    {
+      "schoolType": "ZS",
+      "group": "Praha",
+      "name": "Praha 6 Bubeneč",
+      "city": "Praha 6",
+      "street": "Na Zátorce 30",
+      "url": "https://bubenec.scioskola.cz/",
+      "latitude": 50.102182987672734,
+      "longitude": 14.414316116379366,
+      "fee": "11 000"
+    },
+    {
+      "schoolType": "SS",
+      "group": "Praha",
+      "name": "Střední ScioŠkola Praha Žižkov",
+      "city": "Praha 3 Žižkov",
+      "street": "Prokopova 16",
+      "url": "https://stredni.scioskola.cz/",
+      "latitude": 50.1284869,
+      "longitude": 14.40886,
+      "fee": "6 700"
+    },
+    {
+      "schoolType": "ZS",
+      "group": null,
+      "name": "Brno",
+      "city": "Brno",
+      "street": "Sokolova 145/4",
+      "url": "https://brno.scioskola.cz/",
+      "latitude": 49.1658734,
+      "longitude": 16.6136649,
+      "fee": "6 570"
+    },
+    {
+      "schoolType": "ZS",
+      "group": null,
+      "name": "České Budějovice",
+      "city": "České Budějovice",
+      "street": "Kněžskodvorská 33",
+      "url": "https://budejovice.scioskola.cz/",
+      "latitude": 48.9962501,
+      "longitude": 14.4751237,
+      "fee": "4 900"
+    },
+    {
+      "schoolType": "ZS",
+      "group": null,
+      "name": "Frýdek-Místek",
+      "city": "Frýdek-Místek",
+      "street": "Cihelní 410",
+      "url": "https://frydek.scioskola.cz/",
+      "latitude": 49.6853665,
+      "longitude": 18.3591496,
+      "fee": "4 900"
+    },
+    {
+      "schoolType": "ZS",
+      "group": null,
+      "name": "Jihlava",
+      "city": "Jihlava",
+      "street": "Havlíčkova 1395/30",
+      "url": "https://jihlava.scioskola.cz/",
+      "latitude": 49.4017679,
+      "longitude": 15.5863798,
+      "fee": "5 000"
+    },
+    {
+      "schoolType": "ZS",
+      "group": null,
+      "name": "Olomouc",
+      "city": "Olomouc",
+      "street": "Horní náměstí 8",
+      "url": "https://olomouc.scioskola.cz/",
+      "latitude": 49.5944174,
+      "longitude": 17.2491586,
+      "fee": "5 980"
+    },
+    {
+      "schoolType": "ZS",
+      "group": null,
+      "name": "Zlín",
+      "city": "Zlín",
+      "street": "Mostní 2397",
+      "url": "https://zlin.scioskola.cz/",
+      "latitude": 49.2181268,
+      "longitude": 17.6482402,
+      "fee": "5 050"
+    },
+    {
+      "schoolType": "expedicni",
+      "group": "other",
+      "name": "Základní Expediční",
+      "city": null,
+      "street": "On-line základní škola s off-line expedicemi.<br/>Pro děti od 4. do 9. třídy z ČR i ze světa.",
+      "url": "https://expedicni.scioskola.cz/",
+      "latitude": 50.235357,
+      "longitude": 17.678784,
+      "fee": "7 220"
+    },
+    {
+      "schoolType": "expedicni",
+      "group": "other",
+      "name": "Střední Expediční",
+      "city": null,
+      "street": "On-line střední škola s off-line expedicemi.<br/>Od 1. ročníku po maturitu kdekoli v ČR i ve světě.",
+      "url": "https://expedicni-stredni.scioskola.cz/",
+      "latitude": 50.235357,
+      "longitude": 17.678784,
+      "fee": "5 800"
+    },
+	{
+      "schoolType": "ZS",
+      "group": null,
+      "name": "Kolín",
+      "city": "Kolín",
+      "street": "Ovčárecká 312, 280 02 Kolín",
+      "url": "https://kolin.scioskola.cz/",
+      "latitude": 50.036730,
+      "longitude": 15.210450,
+      "fee": "5 800"
+    }
+
+  ]
+}
